@@ -31,10 +31,10 @@
 
 ## 📈 Github Stats
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-A-Thakkar&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/Aditya-A-Thakkar/github-readme-stats#gh-dark-mode-only)
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-A-Thakkar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Aditya-A-Thakkar/github-readme-stats#gh-light-mode-only)
-[![Aditya's Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-A-Thakkar&theme=radical#gh-dark-mode-only)](https://github.com/Aditya-A-Thakkar/github-readme-stats#gh-dark-mode-only)
-[![Aditya's Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-A-Thakkar&theme=default#gh-light-mode-only)](https://github.com/Aditya-A-Thakkar/github-readme-stats#gh-light-mode-only)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-A-Thakkar&show_icons=true&theme=radical#gh-dark-mode-only)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-A-Thakkar&show_icons=true&theme=default#gh-light-mode-only)
+![Aditya's Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-A-Thakkar&theme=radical#gh-dark-mode-only)
+![Aditya's Sreak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-A-Thakkar&theme=default#gh-light-mode-only)
 
 
 ## Contact me anytime :)

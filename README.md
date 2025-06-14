@@ -1,42 +1,41 @@
-<h2 align="center">👋 Hey there</h2>
+<h2 align="center">Hey, I'm Aditya 👋</h2>
+<p align="center">undergrad @ IISc • tech explorer • lowkey obsessed with clean builds & deep ideas</p>
 
-### Let me introduce myself
+---
 
-- I am Aditya, a passionate undergrad at the Indian Institue of Science, Bangalore.
-- I’m a total geek for learning about cutting-edge technologies.
-- My GitHub serves as a repository for my exploration of novel concepts.
+### 🛠️ What I’m Working On
+- 🧠 **Internship** – studying Rust's type system under Prof. K.V. Raghavan (CSA, IISc)
+- 🧪 **iGEM 2025** – building the team’s site + contributing to metabolic modeling (FBA)
+- 🧵 **GUI Shell** – making a terminal UI with Raylib + Rust
+<!-- - 🌐 **Techfest Dev** – leading frontend work for Pravega 2026, IISc’s UG tech fest -->
+- 🤖 **AI Side Project** – something in the works
+- 📱 **Web dev** - developing a re-designed version of the website of Ensemble, IISc
+- 🎢 **Hackathons** - looking forward to participarting in various hackathons this summer
+- 📈 **quant** - reached 'Gold Level', and got offer for a consultant position @ WorldQuant BRAIN
 
+---
 
-## More About ME!
+### 🌱 Currently Learning
+- 🎮 Raylib for low-level graphics and interaction
+- 📦 Three.js for creative web experiences
+- 🔍 Quantum computing (guided by seniors)
+- 🎞️ Video editing + VFX (Tharun Speaks, Neoliptus)
+- 📊 DSA + Problem Solving (LeetCode, Codeforces)
 
-```json
-{
-  "OS": "Mac OS",
-  "Programming Languages": ["Python", "Javascript"],
-  "Other Computer Languages": ["LaTeX", "HTML", "CSS", "JSON", "TOML", "md"],
-  "Spoken Languages": ["Gujarati", "English", "Hindi"],
-  "Package Managers": ["pip", "uv", "npm", "homebrew", "mac-ports"],
-  "Libraries and Frameworks used": ["opencv-python", "pandas", "numpy", "NEXT.JS", "Flask", "expressjs", "etc."],
-  "Databases": ["MySQL", "MongoDB"],
-  "Codeplaces": ["VS Code", "Pycharm", "anaconda"],
-  "Planning to Learn deeply about": ["AI", "Arduino", "Raspberry Pi", "ROS", "Video Editing(FCPX)"]
-}
-```
+---
 
-## Recent REPOs
+### 🧩 A Little About Me
+- Never stuck to one lane — curious about *everything*
+- Bounced across web, systems, AI, graphics, quant, research
+- Now channeling that chaos into *better builds and deeper focus*
 
-[![BEPT](https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=bept&theme=radical#gh-dark-mode-only)](https://github.com/IISc-Software-iGEM/bept#gh-dark-mode-only)
-[![BEPT](https://github-readme-stats.vercel.app/api/pin/?username=IISc-Software-iGEM&repo=bept&theme=default#gh-light-mode-only)](https://github.com/IISc-Software-iGEM/bept#gh-light-mode-only)
+---
 
+### 📫 Reach Out
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:adityaat@iisc.ac.in)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aditya-a-thakkar)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/aditya_a.thakkar)
 
-## 📈 Github Stats
+---
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-A-Thakkar&show_icons=true&theme=radical&card_width=390#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya-A-Thakkar&show_icons=true&theme=default&card_width=390#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-## Contact me anytime :)
-
-[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:adityaat@iisc.ac.in)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](www.instagram.com/aditya-a-thakkar)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/aditya-a-thakkar)
+_This README will probably evolve — just like me._

@@ -7,11 +7,10 @@
 - 🧠 **Internship** – studying Rust's type system under Prof. K.V. Raghavan (CSA, IISc)
 - 🧪 **iGEM 2025** – building the team’s site + contributing to metabolic modeling (FBA)
 - 🧵 **GUI Shell** – making a terminal UI with Raylib + Rust
-<!-- - 🌐 **Techfest Dev** – leading frontend work for Pravega 2026, IISc’s UG tech fest -->
 - 🤖 **AI Side Project** – something in the works
 - 📱 **Web dev** - developing a re-designed version of the website of Ensemble, IISc
 - 🎢 **Hackathons** - looking forward to participarting in various hackathons this summer
-- 📈 **quant** - reached 'Gold Level', and got offer for a consultant position @ WorldQuant BRAIN
+- 📈 **Quant** - reached 'Gold Level', and got offer for a consultant position @ WorldQuant BRAIN
 
 ---
 
